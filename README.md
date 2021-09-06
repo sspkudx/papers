@@ -1,12 +1,12 @@
 # 简介
-这是我们的博客的仓库, 长期更新.  
+这是北京大学软件微电子学院爱好技术的同学的论文翻译和介绍仓库, 长期更新.  
 github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/sspkudx/papers)<br>
 
 
 - [github Issue传送门](https://github.com/sspkudx/papers/issues/new)
 
-如果你发现了好的翻译论文或者想自己翻译论文, 请提Issue  
-如果你想长期加入这个团队, 一起做贡献, 也可以在Issue区留言, 留下自己的 github ID. 
+如果你发现了好的翻译论文或者想自己翻译论文, 请提 Issue 或者 Pull request  
+如果你想长期加入这个团队, 一起做贡献, 也可以在Issue区留言, 留下自己的 github ID  
 
 
 # 订阅
