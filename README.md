@@ -18,12 +18,11 @@ github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/ss
 - [转载-mapreduce论文翻译](https://blog.csdn.net/qq_38289815/article/details/90146250 )
 - [转载-bigtable论文翻译](https://blog.csdn.net/three_man/article/details/44409027)
 - [hive](./big-data/hive.md)
-
 - [kudu](./big-data/kudu.md)
-
 - [impala](./big-data/impala.md)
-
 - [mesa](./big-data/mesa.md)
+- [英语原文-kafka](./big-data/Kafka.pdf)
+- [英语原文-spark](./big-data/spark.pdf)
 
 ## 3.2 AI算法论文系列
 ### 3.2.1 NLP
