@@ -1,5 +1,5 @@
 # 1.简介
-这是北京大学软件微电子学院的同学的论文翻译和论文笔记仓库, 长期更新. 
+这是北京大学软件微电子学院的同学的论文原文,翻译和论文笔记仓库, 长期更新. 
 
 github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/sspkudx/papers)<br>
 
@@ -23,6 +23,7 @@ github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/ss
 - [mesa](./big-data/mesa.md)
 - [英语原文-kafka](./big-data/Kafka.pdf)
 - [英语原文-spark](./big-data/spark.pdf)
+- [英语原文-flink](http://sites.computer.org/debull/A15dec/p28.pdf)
 
 ## 3.2 AI算法论文系列
 ### 3.2.1 NLP
