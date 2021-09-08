@@ -10,7 +10,7 @@ github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/ss
 - 订阅说明
 - [大数据论文系列](#大数据论文系列)
 - AI算法论文系列
-- [最新比赛](#最新比赛)
+
 
 # 订阅说明
 如果你想知道我们最新更新了什么文章, 欢迎在留下你的邮箱, 这样我可以在更新的第一时间通过邮件发送给你, 请在 Issue 区留下你的常用邮箱, 让我们一起互相学习和讨论.  
@@ -34,10 +34,7 @@ github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/ss
 ##  NLP
 ## CV
 
-# 最新比赛
 
-- [2021QQ浏览器算法比赛](https://algo.browser.qq.com/) 报名 2021, 08.15-9.22
-想要报名的可以开Issue征队友, 可以联系管理员留下联系方式上首页.
 
 
 
