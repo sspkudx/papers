@@ -27,6 +27,8 @@ github 上的地址是 [https://github.com/sspkudx/papers](https://github.com/ss
 - [mesa](./big-data/mesa.md)
 - [英语原文-kafka](./big-data/Kafka.pdf)
 - [英语原文-spark](./big-data/spark.pdf)
+- [转载-spark论文翻译](https://blog.csdn.net/allenlu2008/article/details/39324123)
+    - 评价: 翻译的不一定好, 谨慎参考, 有需要直接阅读原文, 如果有更好的翻译欢迎提PR直接提供地址.
 - [英语原文-flink](http://sites.computer.org/debull/A15dec/p28.pdf)
 
 
